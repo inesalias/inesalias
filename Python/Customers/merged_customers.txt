@@ -1,0 +1,10 @@
+1001,Smith,24 Oak Street,3500
+1002,Wilson,88 Cedar Drive,3700
+1003,Brown,82 Pine Avenue,4200
+1004,Miller,34 Willow Court,2500
+1005,Garcia,19 Maple Road,2800
+1006,Martinez,93 Poplar Blvd,4100
+1007,Johnson,51 Birch Lane,5000
+1008,Anderson,15 Chestnut Way,4600
+1009,Davis,77 Elm Street,3100
+1010,Thomas,60 Walnut Street,3300

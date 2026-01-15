@@ -1,0 +1,5 @@
+1001,Smith,24 Oak Street,3500
+1003,Brown,82 Pine Avenue,4200
+1005,Garcia,19 Maple Road,2800
+1007,Johnson,51 Birch Lane,5000
+1009,Davis,77 Elm Street,3100

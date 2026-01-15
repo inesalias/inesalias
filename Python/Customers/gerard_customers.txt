@@ -1,0 +1,5 @@
+1002,Wilson,88 Cedar Drive,3700
+1004,Miller,34 Willow Court,2500
+1006,Martinez,93 Poplar Blvd,4100
+1008,Anderson,15 Chestnut Way,4600
+1010,Thomas,60 Walnut Street,3300
