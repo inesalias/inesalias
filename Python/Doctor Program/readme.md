@@ -1,1 +1,1 @@
-
+Write a Python program that reads data from two CSV files named dr_best.csv and dr_cushing.csv. Store the contents of each file in separate lists, then combine both lists into a single list. Sort the combined data by birth year (fourth column) in ascending order. Finally, save the sorted records into a new CSV file called merged_customers.csv and display a confirmation message indicating that the file was created successfully.
